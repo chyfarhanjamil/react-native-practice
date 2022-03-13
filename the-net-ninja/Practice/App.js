@@ -5,7 +5,7 @@ import PracticeTextInput from "./Components/PracticeTextInput";
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View>
       <PracticeFlatList />
     </View>
   );
