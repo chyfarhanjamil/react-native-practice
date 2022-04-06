@@ -10,12 +10,15 @@ import PracticeSectionList from "./zSectionList/PracticeSectionList";
 import PracticeTextInput from "./zTExtInput/PracticeTextInput";
 import PracticeTouchables from "./zTouchables/PracticeTouchables";
 import PracticeAlert from "./zAlert/PracticeAlert";
+import PracticeImage from "./zImage/PracticeImage";
+import PracticeStackNavigation from "./zNavigation/PracticeStackNavigation";
+import PracticeStack from "./zNavigation/PracticeStack2";
 // import First from './z1st/First';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <PracticeAlert />
+      <PracticeStack />
     </View>
   );
 }
