@@ -7,7 +7,7 @@ import FlexDirection from "./z3rd/FlexDirection";
 // import First from './z1st/First';
 
 export default function App() {
-  return <FlexDirection />;
+  return <PracticeFlexbox2 />;
 }
 
 const styles = StyleSheet.create({
