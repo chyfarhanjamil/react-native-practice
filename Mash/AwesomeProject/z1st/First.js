@@ -15,3 +15,21 @@ export default function First() {
     </View>
   );
 }
+
+{/* <View>
+      <View style={styles.topView}>
+        <View style={styles.view1}>1</View>
+        <View style={styles.view2}>2</View>
+        <View style={styles.view3}>3</View>
+      </View>
+      <View style={styles.midView}>
+        <View style={styles.view4}>4</View>
+      </View>
+
+      <View style={styles.midView}>
+        <View style={styles.view5}>5</View>
+      </View>
+
+      <View style={styles.view6}>6</View>
+      <View style={styles.view7}>7</View>
+    </View> */}
